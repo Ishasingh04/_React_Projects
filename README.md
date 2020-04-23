@@ -1,2 +1,3 @@
 # _React_
- Learning
+ New to react development!
+ Learning!
